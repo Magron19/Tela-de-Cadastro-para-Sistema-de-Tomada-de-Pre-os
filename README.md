@@ -1,10 +1,10 @@
 Cadastro de Tomada de Preços
 
-* Descrição:
+# Descrição:
 
 - Este projeto é uma aplicação web simples para cadastro e gerenciamento de tomadas de preços. Permite registrar produtos, tipos de produtos, estabelecimentos, bandeiras, localização, datas e valores aferidos. As informações são armazenadas no localStorage do navegador e exibidas dinamicamente em uma tabela.
 
-* Tecnologias Utilizadas:
+# Tecnologias Utilizadas:
 
 - HTML5: Estrutura da página.
 
@@ -14,7 +14,7 @@ Cadastro de Tomada de Preços
 
 - JavaScript: Manipulação do DOM, interação com formulários e armazenamento local.
 
-* Funcionalidades:
+# Funcionalidades:
 
 - Cadastro de Preços: Formulário para inserir informações de produtos e preços.
 
@@ -28,7 +28,7 @@ Cadastro de Tomada de Preços
 
 - Persistência de Dados: Uso de localStorage para salvar os registros no navegador.
 
-* Como Usar:
+# Como Usar:
 
 - Abra o arquivo index.html em um navegador compatível.
 
@@ -40,17 +40,17 @@ Cadastro de Tomada de Preços
 
 - Utilize o campo de busca para encontrar registros específicos.
 
-* Estrutura do Projeto:
+# Estrutura do Projeto:
 
 /
 |-- index.html        # Página principal
 |-- styles_v2.css     # Arquivo CSS externo
 
-* Requisitos:
+# Requisitos:
 
 - Navegador moderno (Chrome, Firefox, Edge, Safari) com suporte a localStorage.
 
-* Melhorias Futuras:
+# Melhorias Futuras:
 
 - Implementação de um backend para armazenamento persistente.
 
